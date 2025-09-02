@@ -16,4 +16,5 @@ Notebook com as resoluções das tarefas conforme os enunciados.
 2. No menu File → Upload notebook…, selecione o arquivo .ipynb. 
 3. Salve uma cópia no seu Drive para não sobrescrever o original: File → Save a copy in Drive (Recomendado).
 
-
+## Linguagens:
+Jupyter Notebook - 100%.
